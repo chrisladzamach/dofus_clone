@@ -1,1 +1,1 @@
-![Imagen de muestra](image.png)
+![Imagen de muestra](./assets/image.png)
